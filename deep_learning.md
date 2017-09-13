@@ -13,3 +13,5 @@ https://github.com/luyishisi/Anti-Anti-Spider
 http://blog.topspeedsnail.com/archives/10858
 
 https://matthewearl.github.io/2016/05/06/cnn-anpr/
+
+https://www.urlteam.org/
